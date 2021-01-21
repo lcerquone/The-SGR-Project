@@ -1,4 +1,7 @@
 # The-SGR-Project
+
+# SGR Aplicacion:
+
 Oct 2020 - Presente
 
 Proyecto de Gestión de una SGR, (Sociedad de Garantías Recíprocas).
